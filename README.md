@@ -1,6 +1,6 @@
 # Ecommerce-Website
 # Project Description
-This project is a custom E-commerce website built as a Shopify App, designed to integrate seamlessly with Shopify stores and extend their native functionality. It provides a full-featured shopping experience for users, along with a powerful admin interface for store owners. The app supports product browsing, cart and order management, and Shopify OAuth-based authentication, making it a robust and scalable solution for modern online retail.
+This project is a custom E-commerce website built as a Shopify App, designed to integrate seamlessly with Shopify stores and extend their native functionality. It provides a full-featured shopping experience for users, along with a powerful admin interface for store owners. The app supports product browsing, cart and order management, and Shopify Auth-based authentication, making it a robust and scalable solution for modern online retail.
 Whether you're managing products, handling orders, or customizing storefront experiences, this Shopify App offers a flexible foundation to build and grow your e-commerce presence.
 A modern, responsive, and scalable E-Commerce web application built as a Shopify App. This project integrates seamlessly with Shopify to enhance online store functionality, providing a smooth shopping experience and powerful admin tools.
 
