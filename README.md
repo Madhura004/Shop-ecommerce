@@ -4,8 +4,34 @@ This project is a custom E-commerce website built as a Shopify App, designed to 
 Whether you're managing products, handling orders, or customizing storefront experiences, this Shopify App offers a flexible foundation to build and grow your e-commerce presence.
 A modern, responsive, and scalable E-Commerce web application built as a Shopify App. This project integrates seamlessly with Shopify to enhance online store functionality, providing a smooth shopping experience and powerful admin tools.
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
 # Features
-✅ Shopify App integration with Auth authentication
+✅ Integration with Auth authentication
 
 🛍️ Product listing, search, and category filtering
 
